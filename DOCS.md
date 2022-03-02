@@ -4,19 +4,19 @@
 
 #### a) Inside *supervisor* tab, choice *Add-on store*.
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass1.png" alt="Hass.io screen Add a new repository." width="500" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass1.png" alt="Hass.io screen Add a new repository." width="500" /> 
 
 #### b) Add the **URL** (https://github.com/dmslabsbr/hoymiles) of the repository and then press "**Add**". 
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass2.png" alt="Hass.io screen Add a new repository." width="500" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass2.png" alt="Hass.io screen Add a new repository." width="500" /> 
 
 #### c) A new card for the repository will appear.
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass3.png" alt="Hass.io screen Add a new repository." width="400" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass3.png" alt="Hass.io screen Add a new repository." width="400" /> 
 
 #### d) Click on the repository and proceed with add-on installation.
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass4.png" alt="Hass.io screen Add a new repository." width="200" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass4.png" alt="Hass.io screen Add a new repository." width="200" /> 
 
 #### e) Before the 1st use you must configure the add-on, in the Configuration tab. Where:
 
@@ -28,9 +28,9 @@
 
 ## Example:
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass5.png" alt="Hass.io screen Add a new repository." width="200" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass5.png" alt="Hass.io screen Add a new repository." width="200" /> 
 
-<img src="https://github.com/dmslabsbr/smsUps/raw/master/hass6.png" alt="Hass.io screen Add a new repository." width="200" /> 
+<img src="https://github.com/dmslabsbr/smsUps/blob/master/img/hass6.png" alt="Hass.io screen Add a new repository." width="200" /> 
 
 You can now use your Hoymiles data in your Home Assistant.
 
